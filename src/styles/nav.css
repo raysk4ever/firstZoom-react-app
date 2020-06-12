@@ -1,0 +1,13 @@
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  height: 5vh;
+  background-color: seagreen;
+  color: white;
+}
+.nav-right {
+  display: flex;
+  align-items: center;
+}

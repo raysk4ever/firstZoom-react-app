@@ -1,0 +1,74 @@
+.avatar {
+  width: 40px;
+  border-radius: 10px;
+  margin: 3px;
+}
+.m-10{
+  margin: 10px;
+}
+.df {
+  display: flex;
+}
+.fdc {
+  flex-direction: column;
+}
+.aic {
+  align-items: center;
+}
+.jcc {
+  justify-content: center;
+}
+
+.ta-c{
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.btn-grp {
+  border: none;
+  padding: 10px 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btn-grp:hover {
+  background-color: gray;
+}
+.btn-grp-active {
+  background-color: seagreen;
+  color: white;
+}
+.btn-grp-left{
+  border-right: 1px solid gray;
+}
+
+.btn-grp-mid {
+}
+
+.btn-grp-right {
+  border-left: 1px solid gray;
+}
+
+.btn-pink {
+  background-color: pink;
+}
+
+.bg-green{
+  background-color: green;
+  padding: 10px;
+  color: white;
+  margin: 0px 10px;
+  cursor: pointer;
+}
+
+
+.t-large {
+  font-size: 30px;
+}
+.t-largex {
+  font-size: 35px;
+}
